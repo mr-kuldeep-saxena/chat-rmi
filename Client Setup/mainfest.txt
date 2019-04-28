@@ -1,0 +1,2 @@
+Main-Class: gui.Login
+Class-Path: .;lib/gr.jar

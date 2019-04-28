@@ -1,0 +1,63 @@
+Starting server
+Initializing Users list
+loading data for all users
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+done reading data
+Finish initializing user list
+
+----Server Started -----   Fri Dec 16 14:03:06 IST 2011
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user kuldeep
+Offline messages not found for user kuldeep
+Sign in request from : gagan
+Validating : gagan
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user gagan
+Offline messages loaded
+Deleting offline message of gagan
+Offline message deleted
+Received message from: gagan
+Message for: {kuldeep}
+Calling invoker to dispatch message
+Sending message to kuldeep
+Message contents : [gagan] -> HI
+
+Message sent to kuldeep
+Received message from: kuldeep
+Message for: {gagan}
+Calling invoker to dispatch message
+Sending message to gagan
+Message contents : [kuldeep] -> Hello
+
+Message sent to gagan
+Received message from: kuldeep
+Message for: {gagan}
+Calling invoker to dispatch message
+Sending message to gagan
+Message contents : [kuldeep] -> Hi
+
+Message sent to gagan
+Received message from: kuldeep
+Message for: {gagan}
+Calling invoker to dispatch message
+Sending message to gagan
+Message contents : [kuldeep] -> Hi
+
+Message sent to gagan
+Request to sign out the user from user kuldeep
+Updating other users about offline user status 
+Request to sign out the user from user gagan
+Updating other users about offline user status 

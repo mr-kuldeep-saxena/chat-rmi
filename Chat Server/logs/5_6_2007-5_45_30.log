@@ -1,0 +1,41 @@
+Starting server
+Initializing Users list
+loading data for all users
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+done reading data
+Finish initializing user list
+
+----Server Started -----   Thu Jul 05 17:45:32 IST 2007
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user kuldeep
+Offline messages not found for user kuldeep
+Sign in request from : admin
+Validating : admin
+Fetching data from the DB for user admin
+Failed to load user data D:\Chat Server\userDB\admin.xml (The system cannot find the file specified)
+Invalid user ID
+Sign in request from : gagan
+Validating : gagan
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user gagan
+Offline messages not found for user gagan
+Received message from: kuldeep
+Message for: {gagan}
+Calling invoker to dispatch message
+Sending message to gagan
+Message contents : [kuldeep] -> HI
+
+Message sent to gagan

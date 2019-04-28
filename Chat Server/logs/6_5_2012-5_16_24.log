@@ -1,0 +1,36 @@
+Starting server
+Initializing Users list
+loading data for all users
+done reading data
+Finish initializing user list
+
+----Server Started -----   Wed Jun 06 17:16:25 IST 2012
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+Failed to load user data J:\Projects\Chat Software\Chat Server\userDB\kuldeep.xml (The system cannot find the file specified)
+Invalid user ID
+Sign in request from : sagar
+Validating : sagar
+Fetching data from the DB for user sagar
+Failed to load user data J:\Projects\Chat Software\Chat Server\userDB\sagar.xml (The system cannot find the file specified)
+Invalid user ID
+Sign in request from : sagar
+Validating : sagar
+Fetching data from the DB for user sagar
+Failed to load user data J:\Projects\Chat Software\Chat Server\userDB\sagar.xml (The system cannot find the file specified)
+Invalid user ID
+New user sign up request with user id kuldeep
+Writing user data to system
+User data for kuldeep save to DB successfully
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user kuldeep
+Offline messages not found for user kuldeep
+Request to sign out the user from user kuldeep
+Updating other users about offline user status 

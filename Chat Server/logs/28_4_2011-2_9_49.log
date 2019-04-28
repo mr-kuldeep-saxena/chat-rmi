@@ -1,0 +1,36 @@
+Starting server
+Initializing Users list
+loading data for all users
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+done reading data
+Finish initializing user list
+
+----Server Started -----   Sat May 28 02:09:49 IST 2011
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user kuldeep
+Offline messages not found for user kuldeep
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user kuldeep
+Offline messages not found for user kuldeep
+Request to sign out the user from user kuldeep
+Updating other users about offline user status 
+Sign in request from : sagar
+Validating : sagar
+Fetching data from the DB for user sagar
+Failed to load user data F:\Projects\Chat Software\Chat Server\userDB\sagar.xml (The system cannot find the file specified)
+Invalid user ID

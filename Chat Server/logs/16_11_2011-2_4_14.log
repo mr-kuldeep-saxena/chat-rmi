@@ -1,0 +1,11 @@
+Starting server
+Initializing Users list
+loading data for all users
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+done reading data
+Finish initializing user list
+Listen failed on port: 3090; nested exception is: 
+	java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind

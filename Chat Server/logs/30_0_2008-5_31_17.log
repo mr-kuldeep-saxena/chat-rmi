@@ -1,0 +1,28 @@
+Starting server
+Initializing Users list
+loading data for all users
+Fetching data from the DB for user gagan
+User data loaded for user gagan
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+done reading data
+Finish initializing user list
+
+----Server Started -----   Wed Jan 30 17:31:23 IST 2008
+Sign in request from : kuldeep
+Validating : kuldeep
+Fetching data from the DB for user kuldeep
+User data loaded for user kuldeep
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user kuldeep
+Offline messages not found for user kuldeep
+Received message from: kuldeep
+Message for: {gagan}
+Calling invoker to dispatch message
+Sending message to gagan
+Message contents : [kuldeep] -> Hi
+
+gagan is offline writing message to system
+done writing message to system
